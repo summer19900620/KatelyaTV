@@ -7,12 +7,6 @@
       "detail": "https://api.1080zyku.com",
       "is_adult": false
     },
-    "155api": {
-      "api": "https://155api.com/api.php/provide/vod",
-      "name": "AV-155资源",
-      "detail": "https://155api.com",
-      "is_adult": true
-    },
     "360zy": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "TV-360资源",
@@ -174,12 +168,6 @@
       "name": "TV-电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com",
       "is_adult": false
-    },
-    "bwzyz": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "AV-百万资源",
-      "detail": "https://api.bwzyz.com",
-      "is_adult": true
     },
     "apibdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
